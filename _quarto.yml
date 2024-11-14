@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "STA 9750 2024 Submission Material"
+  title: "Chick-fil-A Staten Island Mall Home Page"
   description:
-    Course Projects for STA 9750 at Baruch College
+    Personal home page for our store 
   site-url: "https://cfasi.github.io/cfasimain/"
   navbar:
     background: primary
@@ -15,6 +15,7 @@ format:
   html:
     theme: Journal
     toc: false
+    css: styles.css
     
 execute: 
   cache: true
