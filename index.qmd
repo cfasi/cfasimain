@@ -8,6 +8,17 @@ format:
         <link rel="icon" href="CFALogo.png" type="image/png"> 
 ---
 
-This is our home page. Click here to go to the directory: 
+<div style="text-align: center;">
+
+![](https://image-handler.workstream.is/fit-in/512x512/production/uploads/brand/logo/25456/b5e811b29339f2735850dbe36c96462b.png)
+</div>
+
+
+
+Click here to go to the directory. 
+
+Click here to go to the organizational chart. 
+
+
 
 
