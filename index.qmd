@@ -1,5 +1,13 @@
 ---
 title: "Chick-fil-A SI Home Page"
+format:
+  html:
+    css: styles.css  # Custom CSS file (optional)
+    includes:
+      in_header: |
+        <link rel="icon" href="CFALogo.png" type="image/png"> 
 ---
 
 This is our home page. Click here to go to the directory: 
+
+
