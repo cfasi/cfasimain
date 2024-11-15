@@ -5,5 +5,33 @@
     "title": "Chick-fil-A SI Home Page",
     "section": "",
     "text": "Click here to go to the directory.\nClick here to go to the organizational chart."
+  },
+  {
+    "objectID": "directory.html",
+    "href": "directory.html",
+    "title": "Directory Main Page",
+    "section": "",
+    "text": "Find and click on your role. It will bring you to your personal page with your job descirption and neccessary documents.\n\n\n\n\nDirector of Operations\nOperations Supervisor\nOperations Shift Lead\nShift Lead (FOH/BOH)\nTeam Lead (FOH/BOH)\n\n\n\n\n\nHuman Resources Supervisor\nHuman Resources Admin\n\n\n\n\n\nSales & Brand Growth Director\nSales & Brand Growth Supervisor\nADP Coordinator\nMarketing Coordinator\n\n\n\n\n\nKitchen Director\nKitchen Supervisor\nMaintenance Supervisor"
+  },
+  {
+    "objectID": "directory.html#operations",
+    "href": "directory.html#operations",
+    "title": "Chick-fil-A Staten Island Mall Home Page",
+    "section": "Operations",
+    "text": "Operations"
+  },
+  {
+    "objectID": "directory.html#sales-and-brand-growth",
+    "href": "directory.html#sales-and-brand-growth",
+    "title": "Chick-fil-A Staten Island Mall Home Page",
+    "section": "Sales and Brand Growth",
+    "text": "Sales and Brand Growth"
+  },
+  {
+    "objectID": "directory.html#kitchen",
+    "href": "directory.html#kitchen",
+    "title": "Chick-fil-A Staten Island Mall Home Page",
+    "section": "Kitchen",
+    "text": "Kitchen"
   }
 ]

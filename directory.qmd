@@ -1,0 +1,53 @@
+# Directory Main Page
+
+Find and click on your role. It will bring you to your personal page with your job descirption and neccessary documents. 
+
+
+<div style="text-align: center;">
+## Operations
+</div>
+
+- Director of Operations 
+
+- Operations Supervisor 
+
+- Operations Shift Lead
+
+- Shift Lead (FOH/BOH)
+
+- Team Lead (FOH/BOH)
+
+<div style="text-align: center;">
+## Human Resources  
+</div>
+
+- Human Resources Supervisor 
+
+- Human Resources Admin 
+
+
+<div style="text-align: center;">
+## Sales and Brand Growth
+</div>
+
+- Sales & Brand Growth Director 
+
+- Sales & Brand Growth Supervisor 
+
+- ADP Coordinator 
+
+- Marketing Coordinator
+
+
+<div style="text-align: center;">
+## Kitchen 
+</div>
+
+- Kitchen Director
+
+- Kitchen Supervisor
+
+- Maintenance Supervisor 
+
+
+
