@@ -7,7 +7,7 @@ Find and click on your role. It will bring you to your personal page with your j
 ## Operations
 </div>
 
-- Director of Operations 
+- [Director of Operations](https://cfasi.github.io/cfasimain/opdir.html)
 
 - [Operations Supervisor](https://cfasi.github.io/cfasimain/opsup.html) 
 
