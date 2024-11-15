@@ -9,7 +9,7 @@ Find and click on your role. It will bring you to your personal page with your j
 
 - Director of Operations 
 
-- Operations Supervisor 
+- [Operations Supervisor](https://cfasi.github.io/cfasimain/opsup.html) 
 
 - Operations Shift Lead
 
