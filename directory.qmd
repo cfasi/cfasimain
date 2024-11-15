@@ -1,6 +1,6 @@
 # Directory Main Page
 
-Find and click on your role. It will bring you to your personal page with your job descirption and neccessary documents. 
+Find and click on your role. It will bring you to your personal page with your job description and necessary documents. 
 
 
 <div style="text-align: center;">

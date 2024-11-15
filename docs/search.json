@@ -11,7 +11,7 @@
     "href": "directory.html",
     "title": "Directory Main Page",
     "section": "",
-    "text": "Find and click on your role. It will bring you to your personal page with your job descirption and neccessary documents.\n\n\n\n\nDirector of Operations\nOperations Supervisor\nOperations Shift Lead\nShift Lead (FOH/BOH)\nTeam Lead (FOH/BOH)\n\n\n\n\n\nHuman Resources Supervisor\nHuman Resources Admin\n\n\n\n\n\nSales & Brand Growth Director\nSales & Brand Growth Supervisor\nADP Coordinator\nMarketing Coordinator\n\n\n\n\n\nKitchen Director\nKitchen Supervisor\nMaintenance Supervisor"
+    "text": "Find and click on your role. It will bring you to your personal page with your job description and necessary documents.\n\n\n\n\nDirector of Operations\nOperations Supervisor\nOperations Shift Lead\nShift Lead (FOH/BOH)\nTeam Lead (FOH/BOH)\n\n\n\n\n\nHuman Resources Supervisor\nHuman Resources Admin\n\n\n\n\n\nSales & Brand Growth Director\nSales & Brand Growth Supervisor\nADP Coordinator\nMarketing Coordinator\n\n\n\n\n\nKitchen Director\nKitchen Supervisor\nMaintenance Supervisor"
   },
   {
     "objectID": "directory.html#operations",
@@ -33,5 +33,19 @@
     "title": "Chick-fil-A Staten Island Mall Home Page",
     "section": "Kitchen",
     "text": "Kitchen"
+  },
+  {
+    "objectID": "opsup.html#job-description",
+    "href": "opsup.html#job-description",
+    "title": "Operations Supervisor",
+    "section": "Job Description",
+    "text": "Job Description"
+  },
+  {
+    "objectID": "opsup.html#neccessary-documentslinks",
+    "href": "opsup.html#neccessary-documentslinks",
+    "title": "Operations Supervisor",
+    "section": "Neccessary Documents/Links",
+    "text": "Neccessary Documents/Links"
   }
 ]
