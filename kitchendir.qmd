@@ -1,0 +1,23 @@
+<div style="text-align: center;">
+# Kitchen Director
+</div>
+
+[Back to Directory](https://cfasi.github.io/cfasimain/directory.html)
+
+<div style="text-align: center;">
+## Job Description 
+</div>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vR_o9zby9XRotSBR7iHXoBkR1M4ptdoZSy-_1trnzIT-aJApvowrRbw0EhTurRPB7pa6yNNyUSGkPIp/pub?embedded=true" width= "800" height= "600" ></iframe>
+
+
+
+<div style="text-align: center;">
+## Neccessary Documents/Links
+</div>
+
+
+
+- Truck
+- Waste
+- Food Cost
