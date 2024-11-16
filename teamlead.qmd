@@ -1,0 +1,36 @@
+<div style="text-align: center;">
+# Team Lead (FOH/BOH)
+</div>
+
+[Back to Directory](https://cfasi.github.io/cfasimain/directory.html)
+
+<div style="text-align: center;">
+## FOH Job Description 
+</div>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRsHrLUPtLxh7UgdPzYgsNaVLPO6HnoSnIC1xXLPkW5o5lJWuvv0WnMhrmw15s7xf8m-xI0j83pznMe/pub?embedded=true" width= "800" height= "600" ></iframe>
+
+<div style="text-align: center;">
+## BOH Job Description 
+</div>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQCr7rWxW4UuW0ITgANubg8iJcOLWbDV1jK0OKvxJhRnResNQsWFefbRUhN-6V-ZZaD1QU5zhV8qV3l/pub?embedded=true" width= "800" height= "600" ></iframe>
+
+
+
+
+<div style="text-align: center;">
+## Neccessary Documents/Links
+</div>
+
+
+
+- CEM Scores
+- Training
+  - Training Plan (BOH)
+  - Training Plan (FOH)
+  - Monthly Retraining
+  - Roll-out Training
+  - Food Safety
+  - Food Quality
+- Evaluations 

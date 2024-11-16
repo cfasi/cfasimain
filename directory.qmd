@@ -11,43 +11,43 @@ Find and click on your role. It will bring you to your personal page with your j
 
 - [Operations Supervisor](https://cfasi.github.io/cfasimain/opsup.html) 
 
-- Operations Shift Lead
+- [Operations Shift Lead](https://cfasi.github.io/cfasimain/opsl.html)
 
-- Shift Lead (FOH/BOH)
+- [Shift Lead (FOH/BOH)](https://cfasi.github.io/cfasimain/shiftlead.html)
 
-- Team Lead (FOH/BOH)
+- [Team Lead (FOH/BOH)](https://cfasi.github.io/cfasimain/teamlead.html)
 
 <div style="text-align: center;">
 ## Human Resources  
 </div>
 
-- Human Resources Supervisor 
+- [Human Resources Supervisor](https://cfasi.github.io/cfasimain/HRsup.html)
 
-- Human Resources Admin 
+- [Human Resources Admin](https://cfasi.github.io/cfasimain/HRadmin.html) 
 
 
 <div style="text-align: center;">
 ## Sales and Brand Growth
 </div>
 
-- Sales & Brand Growth Director 
+- [Sales & Brand Growth Director](https://cfasi.github.io/cfasimain/SBGdir.html) 
 
-- Sales & Brand Growth Supervisor 
+- [Sales & Brand Growth Supervisor](https://cfasi.github.io/cfasimain/SBGsup.html) 
 
-- ADP Coordinator 
+- [ADP Coordinator](https://cfasi.github.io/cfasimain/ADPCoor.html) 
 
-- Marketing Coordinator
+- [Marketing Coordinator](https://cfasi.github.io/cfasimain/MarketingCoor.html)
 
 
 <div style="text-align: center;">
 ## Kitchen 
 </div>
 
-- Kitchen Director
+- [Kitchen Director](https://cfasi.github.io/cfasimain/kitchendir.html)
 
-- Kitchen Supervisor
+- [Kitchen Supervisor](https://cfasi.github.io/cfasimain/kitchensup.html)
 
-- Maintenance Supervisor 
+- [Maintenance Supervisor](https://cfasi.github.io/cfasimain/maintenancesup.html) 
 
 
 
