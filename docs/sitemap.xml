@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cfasi.github.io/cfasimain/index.html</loc>
-    <lastmod>2025-02-05T05:42:48.502Z</lastmod>
+    <lastmod>2025-02-05T05:50:05.123Z</lastmod>
   </url>
   <url>
     <loc>https://cfasi.github.io/cfasimain/directory.html</loc>
@@ -71,5 +71,9 @@
   <url>
     <loc>https://cfasi.github.io/cfasimain/program_links.html</loc>
     <lastmod>2025-02-05T05:34:55.108Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cfasi.github.io/cfasimain/HRdocs.html</loc>
+    <lastmod>2025-02-05T06:05:49.580Z</lastmod>
   </url>
 </urlset>

@@ -1,5 +1,4 @@
 ---
-title: "Chick-fil-A SI Home Page"
 format:
   html:
     css: styles.css  # Custom CSS file (optional)
@@ -13,7 +12,14 @@ format:
 ![](https://image-handler.workstream.is/fit-in/512x512/production/uploads/brand/logo/25456/b5e811b29339f2735850dbe36c96462b.png)
 </div>
 
+<div style="text-align: center;">
+# Chick-fil-A Staten Island Mall Website
+</div>
+--- 
+
 Click the following links to go to its respective web page: 
+
+- Click [here](https://cfasi.github.io/cfasimain/HRdocs.html) to go to the HR home page. 
 
 - Click [here](https://cfasi.github.io/cfasimain/directory.html) to go to the directory
 

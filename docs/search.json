@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Chick-fil-A SI Home Page",
+    "title": "Chick-fil-A Staten Island Mall Website",
     "section": "",
-    "text": "Click here to go to the directory."
+    "text": "Chick-fil-A Staten Island Mall Website\n\n\nClick the following links to go to its respective web page:\n\nClick here to go to the HR home page.\nClick here to go to the directory\nClick here to go to the Leadership Development Program (Team Member/Applicant Link)\nClick here to go to the Leadership Development Program Overview (Manager Link)"
   },
   {
     "objectID": "directory.html",
@@ -347,7 +347,7 @@
     "href": "Development_Program.html",
     "title": "Chick-fil-A Staten Island Mall",
     "section": "",
-    "text": "Welcome to the Leadership Development Program here at Chick-fil-A Staten Island Mall. Click here for the BOH Stage One"
+    "text": "Welcome to the Leadership Development Program here at Chick-fil-A Staten Island Mall."
   },
   {
     "objectID": "Development_Program.html#leader-development-program",
@@ -376,5 +376,12 @@
     "title": "Chick-fil-A Staten Island Mall",
     "section": "FOH Links",
     "text": "FOH Links\n\nFOH Stage One Book\nFOH Pathways Stage One Tests\n\nTest One\nTest Two\nTest Three\nTest Four\nTest Five\nTest Six\nTest Seven\nTest Eight\n\nFOH Stage Two Book\nFOH Stage Two Answer Key\nFOH Stage Three Book (Team Lead)\nFOH Stage Three Answer Key (Team Lead)\nFOH Stage Three Book (Shift Lead)"
+  },
+  {
+    "objectID": "HRdocs.html",
+    "href": "HRdocs.html",
+    "title": "Human Resources Links",
+    "section": "",
+    "text": "Human Resources Links\n\nClick the following links below to take you to its respective form:\n\nAnonymous Culture Concerns\nCulture Concerns\nMileage Reimbursement\nSick Pay Request\nSchedule Change Request\nTime Punch Correction Request\nUniform Request Form\nVacation Pay Request"
   }
 ]
