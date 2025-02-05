@@ -1,0 +1,68 @@
+
+<script>
+  var password = "pimentochez";
+  var userInput = prompt("Enter password:");
+  if (userInput !== password) {
+    document.body.innerHTML = "<h1>Access Denied</h1>";
+  }
+</script>
+
+<div style="text-align: center;">
+# Chick-fil-A Staten Island Mall
+</div>
+<div style="text-align: center;">
+## Leader Development Program Links
+</div>
+
+<div style="text-align: center;">
+**Do not give Team Members access to this webpage. This page is only available to those who manage the Development Program.** 
+</div>
+
+### BOH Links
+
+- [BOH Stage One Book](https://docs.google.com/document/d/1_ipmsFdgSlME4jg0Y93A71Gi1tXLRkEcgdFlV81ku1I/edit?usp=sharing) 
+
+- BOH Pathways Stage One Tests
+     - [Test One]()
+     - [Test Two]()
+     - [Test Three]()
+     - [Test Four]()
+     - [Test Five]()
+     - [Test Six]()
+     - [Test Seven]()
+     - [Test Eight]()
+
+- [BOH Stage Two Book](https://docs.google.com/document/d/1AEqcBtdaKE9vDRkax8M7EaWw5MBnTTUJpR_Jk83-UH0/edit?usp=sharing)
+
+- [BOH Stage Two Answer Key](https://docs.google.com/document/d/1W6ycXZ6i8HydRMG3T4TQx4kAi4Y0MUB1iN0V8vw9VfE/edit?usp=sharing)
+
+- [BOH Stage Three Book (Team Lead)](https://docs.google.com/document/d/1pwyHwiFH36B6ok4BPx1-HrhLN78qXx_sv9PK0o5rwVE/edit?usp=sharing)
+
+- [BOH Stage Three Answer Key (Team Lead)]()
+
+- [BOH Stage Three Book (Shift Lead)](https://docs.google.com/document/d/1zabRMWuQM-MoEg7CqhIKPY917WBu08q72XwhUjWQ7cU/edit?usp=sharing)
+
+
+### FOH Links 
+
+- [FOH Stage One Book](https://docs.google.com/document/d/1Ecr_RJfh3eADb05RLvNLwriARUttDszd8PD65qwaSV4/edit?usp=sharing) 
+
+- FOH Pathways Stage One Tests
+     - [Test One]()
+     - [Test Two]()
+     - [Test Three]()
+     - [Test Four]()
+     - [Test Five]()
+     - [Test Six]()
+     - [Test Seven]()
+     - [Test Eight]()
+
+- [FOH Stage Two Book](https://docs.google.com/document/d/1iVNx3sf9yCYeLWjEiPbV45vyLrlMb-i2UJCLDYo2bPw/edit?usp=sharing)
+
+- [FOH Stage Two Answer Key](https://docs.google.com/document/d/1UD8gW1U3TCEFdCDaTgxEexa_MxwSmaF9l8DmuTjQALo/edit?usp=sharing)
+
+- [FOH Stage Three Book (Team Lead)](https://docs.google.com/document/d/1a_DGyZIT-m-20jUramNq4YPDRZ9qZGzDMKq5NRxL0uw/edit?usp=sharing)
+
+- [FOH Stage Three Answer Key (Team Lead)](https://docs.google.com/document/d/1v294HdOpw_Sa9AUM173eSEhZpkw-HNem111IX3RV61U/edit?usp=sharing)
+
+- [FOH Stage Three Book (Shift Lead)](https://docs.google.com/document/d/18WpJLj8eu8k3ZKqDbg8Sf-kDoHBxgqDDheM4k6tM330/edit?usp=sharing)
