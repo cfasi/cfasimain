@@ -17,15 +17,25 @@ format:
 </div>
 --- 
 
+### Department of Human Resources
 Click the following links to go to its respective web page: 
 
 - Click [here](https://cfasi.github.io/cfasimain/HRdocs.html) to go to the HR home page. 
 
 - Click [here](https://cfasi.github.io/cfasimain/directory.html) to go to the directory
 
+### Training Department 
+
+Click the following links to go to its respective web page: 
+
 - Click [here](https://cfasi.github.io/cfasimain/Development_Program.html) to go to the Leadership Development Program (**Team Member/Applicant Link**)
 
 - Click [here](https://cfasi.github.io/cfasimain/program_links.html#leader-development-program-links) to go to the Leadership Development Program Overview (**Manager Link**)
+
+
+
+### Maintenance 
+Click the following links to go to its respective web page: 
 
 
 
