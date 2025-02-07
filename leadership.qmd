@@ -1,0 +1,19 @@
+
+<script>
+  var password = "chzsauce";
+  var userInput = prompt("Enter password:");
+  if (userInput !== password) {
+    document.body.innerHTML = "<h1>Access Denied</h1>";
+  }
+</script>
+
+# Leadership Links 
+
+## Evaluation Links: 
+- Click [here](https://docs.google.com/spreadsheets/d/1es4_3RR5YcK0m94lybvvpprJbohNpGUbeS_7eb1znkE/edit?usp=sharing) to go to the evaluation links
+     - *You will only be able to access this link if you were given access to your Google Account.*
+
+## Training Links: 
+
+- Click [here](https://cfasi.github.io/cfasimain/program_links.html#leader-development-program-links) to go to the Leadership Development Program Overview (**Manager Link**)
+
