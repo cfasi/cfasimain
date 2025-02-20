@@ -396,7 +396,7 @@
     "href": "index.html#department-of-human-resources",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Department of Human Resources",
-    "text": "Department of Human Resources\nClick the following links to go to its respective web page:\n\nClick here to go to the HR home page.\nClick here to go to the directory\nClick here to see an explanation of the evaluation process and the questions that accompany it."
+    "text": "Department of Human Resources\nClick the following links to go to its respective web page:\n\nClick here to go to the HR home page.\nClick here to see an explanation of the evaluation process and the questions that accompany it."
   },
   {
     "objectID": "index.html#training-department",
@@ -430,8 +430,8 @@
     "objectID": "Development_Program.html#leadership-development-program",
     "href": "Development_Program.html#leadership-development-program",
     "title": "Chick-fil-A Staten Island Mall",
-    "section": "Leadership Development Program",
-    "text": "Leadership Development Program"
+    "section": "Leadership Development Program!",
+    "text": "Leadership Development Program!"
   },
   {
     "objectID": "Development_Program.html#stage-two-estimated-time-spent-2-hours",
@@ -459,7 +459,7 @@
     "href": "leadership.html",
     "title": "Leadership Links",
     "section": "",
-    "text": "Click here to go to the evaluation links\n\nYou will only be able to access this link if you were given access to your Google Account.\n\n\n\n\n\n\nClick here to go to the Leadership Development Program Overview (Manager Link)"
+    "text": "Click here to go to the evaluation links\n\nYou will only be able to access this link if you were given access to your Google Account.\n\n\n\n\n\n\nClick here to go to the Leadership Development Program Overview (Manager Link)\n\n\n\n\n\nClick here to go to the directory"
   },
   {
     "objectID": "leadership.html#evaluation-links",
@@ -474,5 +474,12 @@
     "title": "Leadership Links",
     "section": "",
     "text": "Click here to go to the Leadership Development Program Overview (Manager Link)"
+  },
+  {
+    "objectID": "leadership.html#job-descriptions",
+    "href": "leadership.html#job-descriptions",
+    "title": "Leadership Links",
+    "section": "",
+    "text": "Click here to go to the directory"
   }
 ]

@@ -22,8 +22,6 @@ Click the following links to go to its respective web page:
 
 - Click [here](https://cfasi.github.io/cfasimain/HRdocs.html) to go to the HR home page. 
 
-- Click [here](https://cfasi.github.io/cfasimain/directory.html) to go to the directory
-
 - Click [here](https://cfasi.github.io/cfasimain/evaluation.html) to see an explanation of the evaluation process and the questions that accompany it. 
 
 ## Training Department 
