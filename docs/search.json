@@ -389,7 +389,7 @@
     "href": "index.html#leadership-links",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Leadership Links",
-    "text": "Leadership Links\n\nClick here to go to the Leadership Links Home Page"
+    "text": "Leadership Links\nClick the following link to go to its respective web page.\n\nOnly leadership will have access to this section!\n\n\nClick here to go to the Leadership Links Home Page"
   },
   {
     "objectID": "index.html#department-of-human-resources",
@@ -403,14 +403,14 @@
     "href": "index.html#training-department",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Training Department",
-    "text": "Training Department\nClick the following links to go to its respective web page:\n\nClick here to go to the Leadership Development Program (Team Member/Applicant Link)"
+    "text": "Training Department\nClick the following link to go to its respective web page:\n\nClick here to go to the Leadership Development Program (Team Member/Applicant Link)"
   },
   {
     "objectID": "index.html#maintenance",
     "href": "index.html#maintenance",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Maintenance",
-    "text": "Maintenance\nClick the following links to go to its respective web page:\n\nClick here for the maintenance request form."
+    "text": "Maintenance\nClick the following link to go to its respective web page:\n\nClick here to go to the Maintenance Home Page."
   },
   {
     "objectID": "Development_Program.html#stage-one",
@@ -488,5 +488,12 @@
     "title": "Evaluation Process",
     "section": "Team Member Report Cards",
     "text": "Team Member Report Cards\nStill in Progress"
+  },
+  {
+    "objectID": "Maintenance.html#maintenance",
+    "href": "Maintenance.html#maintenance",
+    "title": "Chick-fil-A Staten Island Mall",
+    "section": "Maintenance",
+    "text": "Maintenance"
   }
 ]

@@ -26,17 +26,28 @@ Click the following links to go to its respective web page:
 
 ## Training Department 
 
-Click the following links to go to its respective web page: 
+Click the following link to go to its respective web page: 
 
 - Click [here](https://cfasi.github.io/cfasimain/Development_Program.html) to go to the Leadership Development Program (**Team Member/Applicant Link**)
 
 
 ## Maintenance 
-Click the following links to go to its respective web page:
+Click the following link to go to its respective web page:
 
-- Click [here](https://docs.google.com/forms/d/e/1FAIpQLSdlq9hDiHPJNsah9PvEVp5ouotheJvfzKTThDfa7D7LUEXE_A/viewform) for the maintenance request form. 
+- Click [here](https://cfasi.github.io/cfasimain/Maintenance.html) to go to the Maintenance Home Page. 
+
+
 
 ## Leadership Links
+Click the following link to go to its respective web page. 
+<div style="text-align: center;">
+
+
+
+
+*Only leadership will have access to this section!*
+</div>
+
 
 - Click [here](https://cfasi.github.io/cfasimain/leadership.html) to go to the Leadership Links Home Page 
 
