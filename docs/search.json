@@ -396,7 +396,7 @@
     "href": "index.html#department-of-human-resources",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Department of Human Resources",
-    "text": "Department of Human Resources\nClick the following links to go to its respective web page:\n\nClick here to go to the HR home page.\nClick here to see an explanation of the evaluation process and the questions that accompany it."
+    "text": "Department of Human Resources\nClick the following links to go to its respective web page:\n\nClick here to go to the HR home page."
   },
   {
     "objectID": "index.html#training-department",
@@ -459,7 +459,7 @@
     "href": "leadership.html",
     "title": "Leadership Links",
     "section": "",
-    "text": "Click here to access the Gold Star Form\nClick here to access the FOH Compliance Tracker\n\n\n\n\n\nClick here to access the BOH Compliance Tracker\n\n\n\n\n\nClick here to go to the evaluation links\n\nYou will only be able to access this link if you were given access to your Google Account.\n\n\n\n\n\n\nClick here to go to the Leadership Development Program Overview (Manager Link)\n\n\n\n\n\nClick here to go to the directory"
+    "text": "Click here to access the Gold Star Form\nClick here to access the FOH Compliance Tracker\n\n\n\n\n\nClick here to access the BOH Compliance Tracker\nClick here for BOH Leader Walkthrough\n\n\n\n\n\nClick here to go to the evaluation links\n\nYou will only be able to access this link if you were given access to your Google Account.\n\n\n\n\n\n\nClick here to go to the Leadership Development Program Overview (Manager Link)\n\n\n\n\n\nClick here to go to the directory"
   },
   {
     "objectID": "leadership.html#evaluation-links",
@@ -487,7 +487,7 @@
     "href": "evaluation.html#team-member-report-cards",
     "title": "Evaluation Process",
     "section": "Team Member Report Cards",
-    "text": "Team Member Report Cards\nStill in Progress"
+    "text": "Team Member Report Cards\nStill in Progress\n\nClick here to see an explanation of the evaluation process and the questions that accompany it."
   },
   {
     "objectID": "Maintenance.html#maintenance",
@@ -508,6 +508,6 @@
     "href": "leadership.html#boh-links",
     "title": "Leadership Links",
     "section": "",
-    "text": "Click here to access the BOH Compliance Tracker"
+    "text": "Click here to access the BOH Compliance Tracker\nClick here for BOH Leader Walkthrough"
   }
 ]
