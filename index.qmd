@@ -29,7 +29,7 @@ Click the following link to go to its respective web page:
 
 - Click [here](https://cfasi.github.io/cfasimain/Development_Program.html) to go to the Leadership Development Program (*Team Member/Applicant Link*)
 
-- Click [here](https://cfasi.github.io/cfasimain/trainingvideos.html) to go to the training videos directory. 
+- Click [here](https://cfasi.github.io/cfasimain/trainingvideo.html) to go to the training videos directory. 
 
 
 ## Maintenance 
@@ -40,15 +40,12 @@ Click the following link to go to its respective web page:
 
 
 ## Leadership Links
-Click the following link to go to its respective web page. 
+
 <div style="text-align: center;">
-
-
-
-
 *Only leadership will have access to this section!*
 </div>
 
+Click the following link to go to its respective web page. 
 
 - Click [here](https://cfasi.github.io/cfasimain/leadership.html) to go to the Leadership Links Home Page 
 
