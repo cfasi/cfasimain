@@ -403,7 +403,7 @@
     "href": "index.html#training-department",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Training Department",
-    "text": "Training Department\nClick the following link to go to its respective web page:\n\nClick here to go to the Leadership Development Program (Team Member/Applicant Link)"
+    "text": "Training Department\nClick the following link to go to its respective web page:\n\nClick here to go to the Leadership Development Program (Team Member/Applicant Link)\nClick here to go to the training videos directory."
   },
   {
     "objectID": "index.html#maintenance",
@@ -509,5 +509,33 @@
     "title": "Leadership Links",
     "section": "",
     "text": "Click here to access the BOH Compliance Tracker\nClick here for BOH Leader Walkthrough"
+  },
+  {
+    "objectID": "trainingvideo.html#foh-videos",
+    "href": "trainingvideo.html#foh-videos",
+    "title": "Training Videos",
+    "section": "FOH Videos",
+    "text": "FOH Videos\n\nFood Safety\n\nCross Contamination\nTemperature Danger Zone\nWash Hands\n\n\n\nBasic Knowledge\n\nCore4\nSecond Mile Service\nHeard Model\nAnswering the Phone\nProper Stocklist Format\nMaking Lemonade\nCoffee Base\nHow to Make Kids Meal Bags\n\n\n\nBreakfast\n\nThe Breakfast Menu\n\n\n\nFront Counter\n\nHow to Change a Soda Bib\nHow to Stock Ice\nUpstreaming\n\n\n\nRegister\n\nGluten-Free Items\nMain Menu Items\nHow to Engage Using Core4\nSide Items\nSalads\nHow to ring in a discount\nDOC\nHow to Ring in a Gift Card\nHow to Prepare Register Drinks\n\n\n\nCarry-out Bagging\n\nCalling Back Food to the Kitchen\nPackaging\nChutes Explanation\nWhat’s in the Bagging Fridge\nWhat are the Bag Sizes\nHow to Bag a Salad\nHow to Bag a Parfait\nHow to Run an Order\n\n\n\nMobile\n\nWhy do we flat lid third party desserts?\nHow to Make One Drink\nHow to give out a mobile order\nHow to Put Sauce in a Bag\n\n\n\nDesserts\n\nMocha Cold Brew\nStrawberry Frosted Lemonade\nIced Coffee\nStrawberry Shooter\nRefill Ice Cream Machine\nIce Dream Cone & Ice Dream Cup\nFrosted Beverages\nMilkshakes\nCleaning Spindles"
+  },
+  {
+    "objectID": "trainingvideo.html#boh-videos",
+    "href": "trainingvideo.html#boh-videos",
+    "title": "Training Videos",
+    "section": "BOH Videos",
+    "text": "BOH Videos\n\nFood Safety\n\nCross Contamination\nTemperature Danger Zone\nWash Hands\n\n\n\nBasic Knowledge\n\nCore4\nSecond Mile Service\nHeard Model\nGluten-Free Items\nMilk and Egg Wash\nPrepare Mac & Cheese\nWrapping a Cookie\n\n\n\nBreakfast\n\nCFA Biscuit\n\n\n\nPrimary\n\nGrilled Sandwich\n\n\n\nSecondary\n\n\nMachines\n\nDropping Nuggets\nPicking Up Machines\nChicken Lock Out\n\n\n\nFries\n\nNo Salt\nDropping Fries\n\n\n\nBreading\n\nFilets\nStrips\nNuggets\nReworking and Sifting"
+  },
+  {
+    "objectID": "trainingvideo.html#filet-and-rotation",
+    "href": "trainingvideo.html#filet-and-rotation",
+    "title": "Training Videos",
+    "section": "Filet and Rotation",
+    "text": "Filet and Rotation"
+  },
+  {
+    "objectID": "trainingvideo.html#prep",
+    "href": "trainingvideo.html#prep",
+    "title": "Training Videos",
+    "section": "Prep",
+    "text": "Prep\n\nVeggie Wrap\nChicken Wrap\nCobb Salad\nMarket Salad\nFruit Cups"
   }
 ]
