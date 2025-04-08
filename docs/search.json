@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "",
-    "text": "Chick-fil-A Staten Island Mall Website\n\n\n\nDepartment of Human Resources\nClick the following links to go to its respective web page:\n\nClick here to go to the HR home page.\nClick here to go to the directory\n\n\n\nTraining Department\nClick the following links to go to its respective web page:\n\nClick here to go to the Leadership Development Program (Team Member/Applicant Link)\nClick here to go to the Leadership Development Program Overview (Manager Link)\n\n\n\nMaintenance\nClick the following links to go to its respective web page:"
+    "text": "Click the following links to go to its respective web page:\nClick the following link to go to its respective web page:\nClick the following link to go to its respective web page:\nClick the following link to go to its respective web page."
   },
   {
     "objectID": "directory.html",
@@ -389,28 +389,28 @@
     "href": "index.html#leadership-links",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Leadership Links",
-    "text": "Leadership Links\n\nOnly leadership will have access to this section!\n\nClick the following link to go to its respective web page.\n\nClick here to go to the Leadership Links Home Page"
+    "text": "Leadership Links"
   },
   {
     "objectID": "index.html#department-of-human-resources",
     "href": "index.html#department-of-human-resources",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Department of Human Resources",
-    "text": "Department of Human Resources\nClick the following links to go to its respective web page:\n\nClick here to go to the HR home page."
+    "text": "Department of Human Resources"
   },
   {
     "objectID": "index.html#training-department",
     "href": "index.html#training-department",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Training Department",
-    "text": "Training Department\nClick the following link to go to its respective web page:\n\nClick here to go to the Leadership Development Program (Team Member/Applicant Link)\nClick here to go to the training videos directory."
+    "text": "Training Department"
   },
   {
     "objectID": "index.html#maintenance",
     "href": "index.html#maintenance",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "Maintenance",
-    "text": "Maintenance\nClick the following link to go to its respective web page:\n\nClick here to go to the Maintenance Home Page."
+    "text": "Maintenance"
   },
   {
     "objectID": "Development_Program.html#stage-one",
@@ -459,7 +459,7 @@
     "href": "leadership.html",
     "title": "Leadership Links",
     "section": "",
-    "text": "Click here to access the Gold Star Form\nClick here to access the FOH Compliance Tracker\n\n\n\n\n\nClick here to access the BOH Compliance Tracker\nClick here for BOH Leader Walkthrough\n\n\n\n\n\nClick here to go to the evaluation links\n\nYou will only be able to access this link if you were given access to your Google Account.\n\n\n\n\n\n\nClick here to go to the Leadership Development Program Overview (Manager Link)\n\n\n\n\n\nClick here to go to the directory"
+    "text": "Click here to access the write up form.\n\n\n\n\n\nClick here to access the Leadership Tracker Form.\n\n\n\n\n\nClick here to access the Gold Star Form\nClick here to access the FOH Compliance Tracker\n\n\n\n\n\nClick here to access the BOH Compliance Tracker\nClick here for BOH Leader Walkthrough\n\n\n\n\n\nClick here to go to the evaluation links\n\nYou will only be able to access this link if you were given access to your Google Account.\n\n\n\n\n\n\nClick here to go to the Leadership Development Program Overview (Manager Link)\n\n\n\n\n\nClick here to go to the directory"
   },
   {
     "objectID": "leadership.html#evaluation-links",
@@ -537,5 +537,19 @@
     "title": "Training Videos",
     "section": "Prep",
     "text": "Prep\n\nVeggie Wrap\nChicken Wrap\nCobb Salad\nMarket Salad\nFruit Cups"
+  },
+  {
+    "objectID": "leadership.html#write-up-form",
+    "href": "leadership.html#write-up-form",
+    "title": "Leadership Links",
+    "section": "",
+    "text": "Click here to access the write up form."
+  },
+  {
+    "objectID": "leadership.html#leadership-tracker",
+    "href": "leadership.html#leadership-tracker",
+    "title": "Leadership Links",
+    "section": "",
+    "text": "Click here to access the Leadership Tracker Form."
   }
 ]

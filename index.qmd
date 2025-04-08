@@ -16,14 +16,21 @@ format:
 # Chick-fil-A Staten Island Mall Website
 </div>
 --- 
+<div style="text-align: center;">
+*Mission Statement: To develop a team of people who dream, achieve, and succeed, while being a pillar of support for a community that relies on our existence as much as we rely upon theirs.*
+</div>
 
+<div style="text-align: center;">
 ## Department of Human Resources
+</div>
+
 Click the following links to go to its respective web page: 
 
 - Click [here](https://cfasi.github.io/cfasimain/HRdocs.html) to go to the HR home page. 
 
-
+<div style="text-align: center;">
 ## Training Department 
+</div>
 
 Click the following link to go to its respective web page: 
 
@@ -31,15 +38,17 @@ Click the following link to go to its respective web page:
 
 - Click [here](https://cfasi.github.io/cfasimain/trainingvideo.html) to go to the training videos directory. 
 
+<div style="text-align: center;">
+## Maintenance
+</div>
 
-## Maintenance 
 Click the following link to go to its respective web page:
 
 - Click [here](https://cfasi.github.io/cfasimain/Maintenance.html) to go to the Maintenance Home Page. 
 
-
-
+<div style="text-align: center;">
 ## Leadership Links
+</div>
 
 <div style="text-align: center;">
 *Only leadership will have access to this section!*
@@ -48,6 +57,8 @@ Click the following link to go to its respective web page:
 Click the following link to go to its respective web page. 
 
 - Click [here](https://cfasi.github.io/cfasimain/leadership.html) to go to the Leadership Links Home Page 
+
+- Click [here](https://docs.google.com/spreadsheets/d/1MgAmIHUxgUjYDWl87zws9_1eFBkTRuJJ7y2oQHLC808/edit?usp=sharing) to access the day dot tracker
 
 
 
