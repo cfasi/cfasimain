@@ -12,7 +12,6 @@
 ## Store Calendar 
 - Click [here](https://cfasi.github.io/cfasimain/calendar.html) to access the calendar.
 
-
 ## Write-Up Form
 - Click [here](https://docs.google.com/forms/d/e/1FAIpQLSd5CovuOgV2h6ddQTI_X_T8J5HihinEypm7m9TskOCfXoOHLw/viewform?usp=sf_link) to access the write up form.
 
