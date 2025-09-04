@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Chick-fil-A Staten Island Mall Website",
     "section": "",
-    "text": "Click the following links to go to its respective web page:\nClick the following link to go to its respective web page:\nClick the following link to go to its respective web page:\nClick the following link to go to its respective web page."
+    "text": "Click the following links to go to its respective web page:\nClick the following links to go to its respective web page:\nClick the following link to go to its respective web page:\nClick the following link to go to its respective web page:\nClick the following link to go to its respective web page."
   },
   {
     "objectID": "directory.html",
@@ -565,5 +565,12 @@
     "title": "Leadership Links",
     "section": "",
     "text": "Click here to access the calendar."
+  },
+  {
+    "objectID": "index.html#inventory-system",
+    "href": "index.html#inventory-system",
+    "title": "Chick-fil-A Staten Island Mall Website",
+    "section": "Inventory System",
+    "text": "Inventory System"
   }
 ]
