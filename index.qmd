@@ -21,13 +21,16 @@ format:
 </div>
 
 <div style="text-align: center;">
-## Inventory System
+## Systems
 </div>
 
 Click the following links to go to its respective web page: 
 
 
 - Click [here](https://cfa-si-inventory.streamlit.app/) to go to the inventory system. 
+
+- Click [here](https://forms.gle/UqRRzAcyfKFTtumg6) to go to the Amazon wishlist. 
+
 
 <div style="text-align: center;">
 ## Department of Human Resources
