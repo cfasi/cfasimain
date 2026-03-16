@@ -7,4 +7,6 @@
 
 - Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfXa77WM01x49Tv0X62Rm1HZ0JkzvNx2wboQXq1-c8sIJjCMA/viewform) for the maintenance request form.
 
-- Click [here](https://docs.google.com/forms/d/1PYuIRXUf_h75gt5JBK82Y95hTtLSznEfKtI8o18mBdk/viewform?edit_requested=true) for the equipment/parts order form. 
+- Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfTvdG93YmMqbhddaOYmhJjbYh7PoK92ErMhp3CKcXqlHD1Zw/viewform) for the item request form. 
+
+- Click [here](https://docs.google.com/spreadsheets/d/1YV3A_kk2WSwjrzo1jgW68VC23aCse1nHOvAtwh975hA/edit?usp=sharing) for the Maintenance Calendar Request. 
